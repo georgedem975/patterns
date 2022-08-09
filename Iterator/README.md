@@ -9,7 +9,7 @@
 
 ---
 
-####полезные ссылки:
+#### полезные ссылки:
 + [Iterator](https://ru.wikipedia.org/wiki/Итератор_(шаблон_проектирования)) ✅
 + [Iterator](https://habr.com/ru/post/437614/) ✅
 + [Iterator](https://metanit.com/sharp/patterns/3.5.php) ✅
